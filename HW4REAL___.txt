@@ -1,0 +1,32 @@
+Bear Ursus arctos
+Bear Ursus americanus
+Cat Felis catus
+Cat Felis catus
+Dog Canis lupus familiaris
+Dog Canis lupus familiaris
+Dolphin Delphinidae
+Dolphin Tursiops truncatus
+Eagle Haliaeetus leucocephalus
+Eagle Aquila chrysaetos
+Elephant Loxodonta africana
+Elephant Loxodonta cyclotis
+Fox Vulpes vulpes
+Fox Vulpes lagopus
+Giraffe Giraffa camelopardalis
+Giraffe Giraffa reticulata
+Hawk Buteo jamaicensis
+Hawk Accipiter gentilis
+Horse Equus ferus caballus
+Horse Equus ferus caballus
+Lion Panthera leo
+Lion Panthera leo
+Monkey Cercopithecidae
+Monkey Hominoidea
+Penguin Aptenodytes forsteri
+Penguin Pygoscelis adeliae
+Shark Carcharodon carcharias
+Shark Galeocerdo cuvier
+Tiger Panthera tigris
+Tiger Panthera tigris
+Wolf Canis lupus
+Wolf Canis rufus
